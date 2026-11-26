@@ -12,7 +12,11 @@ _____
 
 ## PRD snippets
 
-_The key elements of your simplified PRD._
+1. Persona: non-technical analyst (Maya, a non-SQL research analyst at a small fund or crypto media outlet)
+2. Vision: Every ChainSignal answer tells a non-SQL analyst exactly how its number was computed, in a sentence she can paste into her memo.
+3. Press release: ChainSignal launches Verified Answers for research analysts. Analysts publish on-chain numbers every week but can't check them without SQL: 46% of their first questions to ChainSignal go unanswered, and the answers they do get come without a method, so they wait 1–3 days for a data teammate or publish a figure they can't defend. Starting today, every answer shows its method in plain English (what was measured, across which contracts, over which window, at what prices, as of which block), and one tap copies the number with its citation. If ChainSignal can't compute something with a method it can show, it says so instead of guessing, and on an analyst's first question it offers a verified answer from the team within 24 hours.
+4. Success metric: Analyst activation: share of new analyst signups who receive and open an answer to their first question within 24 h. 41% → 56% (+15 pp vs. control in the A/B test).
+5. Guardrail: Answer error rate (flagged wrong or not reproducible) ≤ 2%, and no more than 1 pp above control.
 
 _____
 
