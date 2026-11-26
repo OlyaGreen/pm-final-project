@@ -20,4 +20,4 @@ _____
 
 _A visual or interactive model of your proposed solution._
 
-_[screenshot or link to your prototype]_
+https://www.figma.com/proto/DjRDkC8KjWuXslOy8KTPpk/ChainSignal-v1?node-id=2-3&code-node-id=2-3&t=1AEealX8vRzfHwd7-1&scaling=contain&content-scaling=responsive&page-id=0%3A1&starting-point-node-id=2%3A3 
